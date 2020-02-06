@@ -1,0 +1,24 @@
+---
+title: "Milestone 1"
+author: "Miroslav Bergam"
+date: "2/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The paper I am considering replicating is called "The future of death in
+America". This paper uses newly availible health and demographic data to make
+predictions about mortality, incorporating factors like obesity and tobacco
+consumption. The conclusions it draws about the average age of death for men and
+women is important, the paper says, for "allocating public health expenditures,
+setting research priorities, and evaluating the viability of public and private
+pensions, and health care financing systems." The paper is co-authored by Gary
+King, meaning the data is likely easy to access.
+
+Link: https://gking.harvard.edu/publications/future-death-america;
+      https://gking.harvard.edu/files/gking/files/25-1.pdf
+
+
